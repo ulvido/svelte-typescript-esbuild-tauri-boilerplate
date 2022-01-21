@@ -1,5 +1,7 @@
 # SVELTE + TYPESCRIPT + ESBUILD + TAURI BOILERPLATE
 
+with Live Reload!
+
 #### dev 
 
 ```bash
